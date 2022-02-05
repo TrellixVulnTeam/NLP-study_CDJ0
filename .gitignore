@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#dataset
+output
+datasets
+photos
+parallel-sentences
+simplewiki-2020-11-01.jsonl.gz
+unsplash-25k-photos-embeddings.pkl
