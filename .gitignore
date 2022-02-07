@@ -137,6 +137,8 @@ simplewiki-2020-11-01.jsonl.gz
 unsplash-25k-photos-embeddings.pkl
 quora-IR-dataset
 quora-IR-dataset.zip
+msmarco-data
+data
 
 #package
 elasticsearch-7.17.0-amd64.deb

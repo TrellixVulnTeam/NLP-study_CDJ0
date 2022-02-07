@@ -39,7 +39,7 @@ logging.basicConfig(format='%(asctime)s - %(message)s',
 parser = argparse.ArgumentParser()
 parser.add_argument("--train_batch_size", default=64, type=int)
 parser.add_argument("--max_seq_length", default=300, type=int)
-parser.add_argument("--model_name", required=True)
+# parser.add_argument("--model_name", required=True)
 parser.add_argument("--max_passages", default=0, type=int)
 parser.add_argument("--epochs", default=10, type=int)
 parser.add_argument("--pooling", default="mean")
