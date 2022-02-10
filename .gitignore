@@ -139,6 +139,8 @@ quora-IR-dataset
 quora-IR-dataset.zip
 msmarco-data
 data
+results
+my-new-tokenizer
 
 #package
 elasticsearch-7.17.0-amd64.deb
