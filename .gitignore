@@ -140,7 +140,12 @@ quora-IR-dataset.zip
 msmarco-data
 data
 results
-my-new-tokenizer
+*-new-tokenizer
+opus-mt-en-ro-finetuned-en-to-ro
+*.txt
+EsperBERTo
+test-squad-trained
+
 
 #package
 elasticsearch-7.17.0-amd64.deb
